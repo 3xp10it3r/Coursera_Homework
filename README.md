@@ -1,3 +1,3 @@
-# Coursera_Homework-C-_for_C_programmers
+# Coursera_Homework-C++ for C programmers
 
 # Homework assignment for course on Coursera C++ for C Programmers:Part A
